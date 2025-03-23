@@ -12,6 +12,7 @@ Les investisseurs souhaitent un tableau de bord intéractif (Power BI, Tableau o
 ## 🧰 Outils Principaux: 
 
 - Power BI
+- Python
 
 ## 🧠 KPIs Principaux:
 
