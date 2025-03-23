@@ -1,13 +1,13 @@
 # 📊📈📉📊 Business-Case-Cyclistic
 
-C'est l'opportunité d'utiliser toutes nos connaissances sur un nouveau jeu de données.
-Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoudre au mieux. Nous vous faisons confiance : nous allons faire une très bonne analyse.
+Les investisseurs souhaitent un tableau de bord intéractif (Power BI, Tableau ou autre outil de BI).
 
 ## 🎯 Objectifs du Business Case:
 
-  ✅ Effectuer une analyse basée sur les données <br>
-  ✅ Présenter des visualisations pertinentes <br>
-  ✅ Proposer des conseils pour aider à la prise de décision
+  ✅ Votre tableau de bord contient des graphiques <br>
+  ✅ Votre tableau de bord contient au moins une visualisation de données interactive <br>
+  ✅ Votre tableau de bord contient au moins une carte représentant des informations géographiques <br>
+  ✅ Votre tableau de bord contient au moins un tableau croisé
 
 ## 🧰 Outils Principaux: 
 
@@ -15,19 +15,16 @@ Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoud
 
 ## 🧠 KPIs Principaux:
 
-  I) Sémantique ? 
-  - Quelles sont les principales catégories d'emploi dans la data ?
-  - Où se trouve cette catégorie dans le monde ?
+  I) Quelles sont les recommandations pour Cyclistic afin d'augmenter leur taux de clientèle, en se concentrant particulièrement <br>
+  sur le ciblage de leurs offres proposées et en exploitant les habitudes d'utilisation des clients ainsi que les préférences pour les vélos?
   
-  II) Entreprise & Contrat 
-  - Quels contrats sont les plus représentés ?
-  - Qu'en est-il de la taille de l'entreprise ?
-  
-  III) Salaire et catégorie ?
-  - Quels sont les métiers les mieux payés ?
+  II) Quel est le meilleur emplacement pour installer de nouvelles stations en se basant sur les habitudes d'utilisation des clients, <br>
+  les saisons et les stations les plus fréquentées ?
 
 ## 📊 Dashboards: 
 
-![Image](https://github.com/user-attachments/assets/07345e2c-25b9-490a-8386-c1326db3079e)
+![Image](https://github.com/user-attachments/assets/a47ef6a2-275c-4cdc-a5e8-912ceea50e1e)
 
-![Image](https://github.com/user-attachments/assets/3284accd-4c7e-420e-8d85-9117cb266d73)
+![Image](https://github.com/user-attachments/assets/df946413-8700-4c21-af36-1add3488e796)
+
+![Image](https://github.com/user-attachments/assets/7a566b73-3251-4412-bcf7-5b160e4c80cf)
