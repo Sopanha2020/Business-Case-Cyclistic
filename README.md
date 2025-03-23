@@ -15,11 +15,12 @@ Les investisseurs souhaitent un tableau de bord intéractif (Power BI, Tableau o
 
 ## 🧠 KPIs Principaux:
 
-  I) Quelles sont les recommandations pour Cyclistic afin d'augmenter leur taux de clientèle, en se concentrant particulièrement <br>
-  sur le ciblage de leurs offres proposées et en exploitant les habitudes d'utilisation des clients ainsi que les préférences pour les vélos?
+  I) Quelles sont les recommandations pour Cyclistic afin d'augmenter leur taux de clientèle, en se concentrant <br> 
+  particulièrement sur le ciblage de leurs offres proposées et en exploitant les habitudes d'utilisation des <br> 
+  clients ainsi que les préférences pour les vélos?
   
-  II) Quel est le meilleur emplacement pour installer de nouvelles stations en se basant sur les habitudes d'utilisation des clients, <br>
-  les saisons et les stations les plus fréquentées ?
+  II) Quel est le meilleur emplacement pour installer de nouvelles stations en se basant sur les habitudes <br>
+  d'utilisation des clients, les saisons et les stations les plus fréquentées ?
 
 ## 📊 Dashboards: 
 
