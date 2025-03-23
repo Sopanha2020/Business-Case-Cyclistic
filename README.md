@@ -1,4 +1,4 @@
-# 📊📈📉📊 Business-Case-Cyclistic
+# 📊📈📉📊 Business Case - Cyclistic
 
 Les investisseurs souhaitent un tableau de bord intéractif (Power BI, Tableau ou autre outil de BI).
 
